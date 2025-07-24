@@ -1,4 +1,4 @@
-# 📚 MyLibrarySystem - Java Console Project
+# 📚 MyLibrarySystem - Oasis Infobyte Java Internship Task 1
 
 This is a simple Library Management System using Java. It allows you to:
 - Add books

@@ -13,7 +13,7 @@ This is a simple Library Management System using Java. It allows you to:
 2. Compile the program using:
 
     ```
-    javac Book.java MyLibrarySystem.java
+    javac Books.java MyLibrarySystem.java
     ```
 
 3. Run the program using:

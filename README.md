@@ -1,5 +1,4 @@
-# 📚 MyLibrarySystem - Oasis Infobyte Java Internship Task 1
-
+# 📚 MyLibrarySystem
 This is a simple Library Management System using Java. It allows you to:
 - Add books
 - View books
@@ -30,7 +29,3 @@ This is a simple Library Management System using Java. It allows you to:
 ## 👩‍💻 Created By:
 Pathima Sangeetha  
 B.Tech – 2026 Batch  
-Oasis Infobyte Virtual Internship (OIBSIP)
-
-## 📝 Note:
-This project is for learning and internship use.
